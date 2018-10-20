@@ -1,0 +1,8 @@
+d:\SharpDevelopProjects\SimpleSpreadsheet\UnitTest\bin\Debug\UnitTest.dll
+d:\SharpDevelopProjects\SimpleSpreadsheet\UnitTest\bin\Debug\UnitTest.pdb
+d:\SharpDevelopProjects\SimpleSpreadsheet\UnitTest\bin\Debug\NUnit.Framework.dll
+d:\SharpDevelopProjects\SimpleSpreadsheet\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+d:\SharpDevelopProjects\SimpleSpreadsheet\UnitTest\obj\Debug\UnitTest.dll
+d:\SharpDevelopProjects\SimpleSpreadsheet\UnitTest\obj\Debug\UnitTest.pdb
+d:\SharpDevelopProjects\SimpleSpreadsheet\UnitTest\bin\Debug\SimpleSpreadsheet.exe
+d:\SharpDevelopProjects\SimpleSpreadsheet\UnitTest\bin\Debug\SimpleSpreadsheet.pdb
